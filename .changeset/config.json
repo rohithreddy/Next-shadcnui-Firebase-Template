@@ -1,0 +1,13 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@2.3.1/schema.json",
+  "changelog": [
+    "@changesets/changelog-github",
+    { "repo": "rohithreddy/Next-Shad-Firebase-template" }
+  ],
+  "commit": false,
+  "fixed": [],
+  "privatePackages": { "version": true, "tag": true },
+  "linked": [],
+  "baseBranch": "main",
+  "updateInternalDependencies": "patch"
+}
