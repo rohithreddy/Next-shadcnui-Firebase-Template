@@ -27,8 +27,8 @@ export const metadata: Metadata = {
     ],
   },
   twitter: {
-    site: "@chaoscrashx",
-    creator: "@chaoscrashx",
+    site: "@elonmusk",
+    creator: "@elonmusk",
     card: "summary_large_image",
   },
 };
